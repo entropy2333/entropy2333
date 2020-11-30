@@ -6,11 +6,11 @@ Undergraduate, Cyber Security@SJTU
 - NLP
 - Knowledge Graph
 
-<a href="https://github.com/chizhu">
+<a href="https://github.com/entropy2333">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=entropy2333&show_icons=truet&include_all_commits=True&hide=contribs" alt="Entropy2333's github stats" />
 </a>
 
-<a href="https://github.com/chizhu">
+<a href="https://github.com/entropy2333">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact" />
 </a>
