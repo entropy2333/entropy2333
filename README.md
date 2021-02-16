@@ -12,7 +12,7 @@ Undergraduate, Cyber Security@SJTU
 
 <a href="https://github.com/entropy2333">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact&hide=html,css&langs_count=8" />
 </a>
 
 <!--
