@@ -7,12 +7,12 @@ Undergraduate, Cyber Security@SJTU
 - Knowledge Graph
 
 <a href="https://github.com/entropy2333">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=entropy2333&show_icons=truet&include_all_commits=True&hide=contribs&count_private=true&theme=cobalt" alt="Entropy2333's github stats" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=entropy2333&show_icons=true&include_all_commits=True&count_private=true&theme=tokyonight" alt="Entropy2333's github stats" />
 </a>
 
 <a href="https://github.com/entropy2333">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact&hide=html,css&langs_count=8&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact&hide=html,css&langs_count=8&theme=tokyonight" />
 </a>
 
 <!--
