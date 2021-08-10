@@ -1,9 +1,9 @@
 ### Hi entropy2333 👋
 
-Undergraduate, Cyber Security@SJTU
+Cyber Security Postgraduate@SJTU
 
 🔭 I’m currently working on
-- NLP
+- Natural Language Processing
 - Knowledge Graph
 
 <a href="https://github.com/entropy2333">
