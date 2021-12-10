@@ -7,7 +7,7 @@ Cyber Security Postgraduate@SJTU
 - Knowledge Graph
 
 <a href="https://github.com/entropy2333">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=entropy2333&show_icons=true&include_all_commits=True&count_private=true&theme=tokyonight" alt="Entropy2333's github stats" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=entropy2333&show_icons=true&count_private=true&theme=tokyonight" alt="Entropy2333's github stats" />
 </a>
 
 <a href="https://github.com/entropy2333">
