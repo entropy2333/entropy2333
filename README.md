@@ -6,17 +6,12 @@ Cyber Security Postgraduate@SJTU
 - Natural Language Processing
 - Knowledge Graph
 
-<a href="https://github.com/entropy2333">
-  <img align="center" width=48% src="https://github-readme-stats-teal.vercel.app/api?username=entropy2333&show_icons=true&count_private=true&theme=tokyonight" alt="Entropy2333's github stats" />
-</a>
+![entropy2333's Github Status](https://github-readme-stats-teal.vercel.app/api?username=entropy2333&show_icons=true&count_private=true&theme=tokyonight)
 
-<a href="https://github.com/entropy2333">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" width=40% src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact&hide=javascript,html,css&langs_count=8&theme=tokyonight" />
-</a>
+### ✨ More
+---
 
-<!--
-**entropy2333/entropy2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Most Used Languages](https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact&hide=javascript,html,css&langs_count=8&theme=tokyonight)
 
 Here are some ideas to get you started:
 
