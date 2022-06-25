@@ -13,7 +13,7 @@ Cyber Security Postgraduate@SJTU
 
 ![Most Used Languages](https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact&hide=javascript,html,css&langs_count=8&theme=tokyonight)
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
