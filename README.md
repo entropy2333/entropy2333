@@ -6,12 +6,15 @@ Cyber Security Postgraduate@SJTU
 - Natural Language Processing
 - Knowledge Graph
 
-![entropy2333's Github Status](https://github-readme-stats-teal.vercel.app/api?username=entropy2333&show_icons=true&count_private=true&theme=tokyonight)
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![entropy2333's github stats](https://github-readme-stats.vercel.app/api?username=entropy2333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![entropy2333's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=entropy2333&theme=tokyonight&layout=compact&hide=javascript,html,css) |
 
 ### ✨ More
 ---
 
-![Most Used Languages](https://github-readme-stats-teal.vercel.app/api/top-langs/?username=entropy2333&layout=compact&hide=javascript,html,css&langs_count=8&theme=tokyonight)
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=entropy2333&hide_border=true&theme=redical)
 
 <!-- Here are some ideas to get you started:
 
