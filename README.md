@@ -1,10 +1,9 @@
 ### Hi entropy2333 👋
 
-Cyber Security Postgraduate@SJTU
-
 🔭 I’m currently working on
 - Natural Language Processing
 - Knowledge Graph
+- Document & Ticket Understanding
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -15,15 +14,3 @@ Cyber Security Postgraduate@SJTU
 
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=entropy2333&hide_border=true&theme=redical)
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
