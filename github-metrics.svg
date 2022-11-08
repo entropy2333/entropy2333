@@ -219,9 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.79995217473333" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="236.79995217473333" y="0" width="145.67887746640167" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="382.478829641135" y="0" width="77.521170358865" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.1814216300258" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="221.1814216300258" y="0" width="136.07038736101185" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="357.25180899103765" y="0" width="72.40813399212625" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="429.6599429831639" y="0" width="30.340057016836106" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +235,7 @@
                             </div>
                             <small>
                                 <div>938 kB</div>
-                                <div>51.48%</div>
+                                <div>48.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -246,7 +247,7 @@
                             </div>
                             <small>
                                 <div>307 kB</div>
-                                <div>16.85%</div>
+                                <div>15.74%</div>
                             </small>
                         </div>
                     </section>
@@ -260,7 +261,19 @@
                             </div>
                             <small>
                                 <div>577 kB</div>
-                                <div>31.67%</div>
+                                <div>29.58%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Vue
+                            </div>
+                            <small>
+                                <div>128 kB</div>
+                                <div>6.6%</div>
                             </small>
                         </div>
                     </section>
@@ -268,7 +281,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Nov 2022, 18:11:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 8 Nov 2022, 18:11:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
